@@ -14,7 +14,6 @@ Meu objetivo com este projeto é reforçar os conceitos de manipulação e anál
 - **Aula 4:** Transformações, remoções e limpeza de dados
 - **Aula 5:** Group By e agregações
 - **Aula 6:** Cruzamento de dados com Merge e Concat
-- **Aula 7:** Integração com Bancos de Dados SQL
 
 *(As pastas e os arquivos estão organizados por aula, conforme o andamento do curso.)*
 
